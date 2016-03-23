@@ -1,0 +1,11 @@
+{
+  "schemes": "test/schemes/",
+  "entities": "test/entities/",
+  "db": {
+    "mongo": {
+      "host": "localhost",
+      "port": 27017,
+      "db": "catTaxi"
+    }
+  }
+}

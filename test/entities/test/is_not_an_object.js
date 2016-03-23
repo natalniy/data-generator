@@ -1,0 +1,1 @@
+module.exports = 'is not an object';
